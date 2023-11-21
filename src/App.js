@@ -33,10 +33,10 @@ export default function App() {
   return (
     <div>
       <header>
-        <img src="react-logo-xs.png" alt="React logo" />
+        <img src="sda.png" alt="React logo" />
         <div>
-          <h1>React.js</h1>
-          <p>i.e., using the React library for rendering the UI</p>
+          <h1>SDA-dating</h1>
+          <p> free community with verifed members!</p>
         </div>
       </header>
 
